@@ -36,6 +36,7 @@ FitLife/
 - CoreData (yerel veri saklama)
 - HealthKit (yakında)
 - MVVM mimarisi
+- Cursor (Debug)
 
 ## 📌 Not
 
