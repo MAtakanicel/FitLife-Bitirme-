@@ -1,0 +1,882 @@
+{
+  "name": "Keto",
+  "description": "Karbonhidrat alımını minimuma indirip, yağ tüketimini artırarak vücudu ketozis adı verilen yağ yakım sürecine sokar. Enerji kaynağı olarak glikoz yerine yağları kullanmayı hedefler. Kilo kaybı, enerji artışı ve tokluk hissi sağlamada etkilidir.",
+  "diet": [
+    {
+      "day": "Gün 1",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 471.2,
+          "fat_g": 40.8,
+          "protein_g": 19.4,
+          "carbs_g": 7.9,
+          "items": [
+            "3 yumurta",
+            "avokado",
+            "zeytin",
+            "ceviz"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 282.3,
+          "fat_g": 18.3,
+          "protein_g": 7.8,
+          "carbs_g": 4.7,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 633.6,
+          "fat_g": 46.4,
+          "protein_g": 36.0,
+          "carbs_g": 6.6,
+          "items": [
+            "hindi köfte",
+            "zeytinyağlı enginar",
+            "roka"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 299.7,
+          "fat_g": 20.7,
+          "protein_g": 10.0,
+          "carbs_g": 3.4,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 560.3,
+          "fat_g": 37.3,
+          "protein_g": 27.2,
+          "carbs_g": 3.8,
+          "items": [
+            "ızgara kırmızı et",
+            "brokoli",
+            "zeytinyağı"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 10",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 510.1,
+          "fat_g": 40.6,
+          "protein_g": 19.5,
+          "carbs_g": 2.8,
+          "items": [
+            "omlet (ıspanak, mantar)",
+            "beyaz peynir"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 285.0,
+          "fat_g": 20.7,
+          "protein_g": 12.0,
+          "carbs_g": 1.8,
+          "items": [
+            "lor peyniri",
+            "domates"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 612.3,
+          "fat_g": 42.7,
+          "protein_g": 35.2,
+          "carbs_g": 5.4,
+          "items": [
+            "somon",
+            "ıspanak",
+            "zeytinyağlı karnabahar"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 276.3,
+          "fat_g": 19.2,
+          "protein_g": 8.2,
+          "carbs_g": 3.5,
+          "items": [
+            "yumurta",
+            "salatalık"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 563.8,
+          "fat_g": 38.6,
+          "protein_g": 29.7,
+          "carbs_g": 7.0,
+          "items": [
+            "balık",
+            "kabak",
+            "salata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 11",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 462.5,
+          "fat_g": 39.6,
+          "protein_g": 21.5,
+          "carbs_g": 3.3,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 268.8,
+          "fat_g": 18.1,
+          "protein_g": 8.2,
+          "carbs_g": 2.4,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 630.1,
+          "fat_g": 43.7,
+          "protein_g": 33.2,
+          "carbs_g": 3.1,
+          "items": [
+            "ızgara tavuk",
+            "zeytinyağlı kabak",
+            "avokado salatası"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 266.8,
+          "fat_g": 23.9,
+          "protein_g": 12.5,
+          "carbs_g": 2.0,
+          "items": [
+            "keto bar",
+            "lor peynirli biber"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 530.9,
+          "fat_g": 40.9,
+          "protein_g": 30.3,
+          "carbs_g": 2.6,
+          "items": [
+            "balık",
+            "kabak",
+            "salata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 12",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 516.1,
+          "fat_g": 40.5,
+          "protein_g": 21.6,
+          "carbs_g": 7.1,
+          "items": [
+            "haşlanmış yumurta",
+            "zeytinyağlı roka",
+            "badem"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 282.2,
+          "fat_g": 19.3,
+          "protein_g": 10.0,
+          "carbs_g": 3.8,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 626.3,
+          "fat_g": 43.5,
+          "protein_g": 34.9,
+          "carbs_g": 8.2,
+          "items": [
+            "ızgara tavuk",
+            "zeytinyağlı kabak",
+            "avokado salatası"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 313.8,
+          "fat_g": 24.7,
+          "protein_g": 13.0,
+          "carbs_g": 0.3,
+          "items": [
+            "yumurta",
+            "salatalık"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 554.8,
+          "fat_g": 38.3,
+          "protein_g": 27.8,
+          "carbs_g": 5.3,
+          "items": [
+            "etli sebze güveç",
+            "zeytinyağlı lahana"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 13",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 524.1,
+          "fat_g": 40.7,
+          "protein_g": 17.1,
+          "carbs_g": 3.8,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 269.1,
+          "fat_g": 20.3,
+          "protein_g": 7.5,
+          "carbs_g": 2.3,
+          "items": [
+            "ceviz",
+            "hindi füme"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 585.0,
+          "fat_g": 42.1,
+          "protein_g": 33.7,
+          "carbs_g": 5.3,
+          "items": [
+            "somon",
+            "ıspanak",
+            "zeytinyağlı karnabahar"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 335.8,
+          "fat_g": 22.6,
+          "protein_g": 12.8,
+          "carbs_g": 2.6,
+          "items": [
+            "keto bar",
+            "lor peynirli biber"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 582.7,
+          "fat_g": 41.3,
+          "protein_g": 28.4,
+          "carbs_g": 3.0,
+          "items": [
+            "tavuk sote",
+            "ıspanak",
+            "zeytinyağlı sebzeler"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 14",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 526.2,
+          "fat_g": 42.3,
+          "protein_g": 22.2,
+          "carbs_g": 6.5,
+          "items": [
+            "haşlanmış yumurta",
+            "zeytinyağlı roka",
+            "badem"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 282.3,
+          "fat_g": 18.5,
+          "protein_g": 11.2,
+          "carbs_g": 0.9,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 599.7,
+          "fat_g": 47.2,
+          "protein_g": 35.0,
+          "carbs_g": 6.6,
+          "items": [
+            "ızgara tavuk",
+            "zeytinyağlı kabak",
+            "avokado salatası"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 266.4,
+          "fat_g": 23.3,
+          "protein_g": 8.1,
+          "carbs_g": 5.0,
+          "items": [
+            "zeytin",
+            "fıstık ezmesi"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 543.6,
+          "fat_g": 38.7,
+          "protein_g": 28.9,
+          "carbs_g": 3.7,
+          "items": [
+            "balık",
+            "kabak",
+            "salata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 2",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 480.3,
+          "fat_g": 40.3,
+          "protein_g": 20.0,
+          "carbs_g": 4.4,
+          "items": [
+            "3 yumurta",
+            "avokado",
+            "zeytin",
+            "ceviz"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 266.7,
+          "fat_g": 17.9,
+          "protein_g": 7.3,
+          "carbs_g": 4.1,
+          "items": [
+            "badem",
+            "salatalık",
+            "zeytinyağı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 627.7,
+          "fat_g": 47.8,
+          "protein_g": 35.8,
+          "carbs_g": 8.0,
+          "items": [
+            "hindi köfte",
+            "zeytinyağlı enginar",
+            "roka"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 328.6,
+          "fat_g": 21.8,
+          "protein_g": 7.7,
+          "carbs_g": 2.4,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 547.7,
+          "fat_g": 39.4,
+          "protein_g": 28.3,
+          "carbs_g": 2.7,
+          "items": [
+            "tavuk sote",
+            "ıspanak",
+            "zeytinyağlı sebzeler"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 3",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 497.5,
+          "fat_g": 42.8,
+          "protein_g": 19.0,
+          "carbs_g": 2.4,
+          "items": [
+            "haşlanmış yumurta",
+            "zeytinyağlı roka",
+            "badem"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 277.9,
+          "fat_g": 22.7,
+          "protein_g": 7.2,
+          "carbs_g": 2.4,
+          "items": [
+            "lor peyniri",
+            "domates"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 588.5,
+          "fat_g": 44.2,
+          "protein_g": 33.0,
+          "carbs_g": 3.3,
+          "items": [
+            "hindi köfte",
+            "zeytinyağlı enginar",
+            "roka"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 321.0,
+          "fat_g": 19.2,
+          "protein_g": 10.2,
+          "carbs_g": 0.0,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 529.4,
+          "fat_g": 39.6,
+          "protein_g": 27.5,
+          "carbs_g": 7.8,
+          "items": [
+            "etli sebze güveç",
+            "zeytinyağlı lahana"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 4",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 487.6,
+          "fat_g": 42.5,
+          "protein_g": 22.2,
+          "carbs_g": 7.1,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 267.0,
+          "fat_g": 22.9,
+          "protein_g": 8.5,
+          "carbs_g": 5.2,
+          "items": [
+            "badem",
+            "salatalık",
+            "zeytinyağı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 627.2,
+          "fat_g": 43.2,
+          "protein_g": 35.6,
+          "carbs_g": 6.2,
+          "items": [
+            "kırmızı et",
+            "zeytinyağlı brokoli",
+            "salata"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 334.1,
+          "fat_g": 21.5,
+          "protein_g": 7.1,
+          "carbs_g": 0.2,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 589.3,
+          "fat_g": 39.5,
+          "protein_g": 30.6,
+          "carbs_g": 6.7,
+          "items": [
+            "tavuk sote",
+            "ıspanak",
+            "zeytinyağlı sebzeler"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 5",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 471.4,
+          "fat_g": 37.7,
+          "protein_g": 22.3,
+          "carbs_g": 7.6,
+          "items": [
+            "haşlanmış yumurta",
+            "zeytinyağlı roka",
+            "badem"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 234.5,
+          "fat_g": 20.8,
+          "protein_g": 11.6,
+          "carbs_g": 0.6,
+          "items": [
+            "badem",
+            "salatalık",
+            "zeytinyağı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 572.3,
+          "fat_g": 45.6,
+          "protein_g": 33.4,
+          "carbs_g": 4.6,
+          "items": [
+            "ızgara tavuk",
+            "zeytinyağlı kabak",
+            "avokado salatası"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 302.3,
+          "fat_g": 22.3,
+          "protein_g": 8.4,
+          "carbs_g": 5.8,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 585.0,
+          "fat_g": 40.7,
+          "protein_g": 31.3,
+          "carbs_g": 4.5,
+          "items": [
+            "etli sebze güveç",
+            "zeytinyağlı lahana"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 6",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 521.9,
+          "fat_g": 37.6,
+          "protein_g": 17.1,
+          "carbs_g": 3.1,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 232.5,
+          "fat_g": 21.8,
+          "protein_g": 8.3,
+          "carbs_g": 4.6,
+          "items": [
+            "ceviz",
+            "hindi füme"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 621.1,
+          "fat_g": 43.0,
+          "protein_g": 32.5,
+          "carbs_g": 7.7,
+          "items": [
+            "hindi köfte",
+            "zeytinyağlı enginar",
+            "roka"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 309.3,
+          "fat_g": 21.8,
+          "protein_g": 11.9,
+          "carbs_g": 2.8,
+          "items": [
+            "zeytin",
+            "fıstık ezmesi"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 556.2,
+          "fat_g": 43.0,
+          "protein_g": 27.7,
+          "carbs_g": 5.9,
+          "items": [
+            "etli sebze güveç",
+            "zeytinyağlı lahana"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 7",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 528.7,
+          "fat_g": 38.7,
+          "protein_g": 22.4,
+          "carbs_g": 2.5,
+          "items": [
+            "haşlanmış yumurta",
+            "zeytinyağlı roka",
+            "badem"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 219.2,
+          "fat_g": 23.0,
+          "protein_g": 7.9,
+          "carbs_g": 4.2,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 611.7,
+          "fat_g": 47.9,
+          "protein_g": 34.6,
+          "carbs_g": 4.6,
+          "items": [
+            "somon",
+            "ıspanak",
+            "zeytinyağlı karnabahar"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 286.9,
+          "fat_g": 20.5,
+          "protein_g": 12.8,
+          "carbs_g": 1.8,
+          "items": [
+            "keto bar",
+            "lor peynirli biber"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 562.4,
+          "fat_g": 37.3,
+          "protein_g": 31.8,
+          "carbs_g": 2.2,
+          "items": [
+            "balık",
+            "kabak",
+            "salata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 8",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 497.8,
+          "fat_g": 39.3,
+          "protein_g": 21.4,
+          "carbs_g": 7.1,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 230.2,
+          "fat_g": 20.2,
+          "protein_g": 8.2,
+          "carbs_g": 4.4,
+          "items": [
+            "lor peyniri",
+            "domates"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 626.7,
+          "fat_g": 43.2,
+          "protein_g": 36.2,
+          "carbs_g": 7.7,
+          "items": [
+            "ızgara tavuk",
+            "zeytinyağlı kabak",
+            "avokado salatası"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 260.6,
+          "fat_g": 22.5,
+          "protein_g": 8.0,
+          "carbs_g": 5.6,
+          "items": [
+            "avokado",
+            "ceviz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 574.6,
+          "fat_g": 41.2,
+          "protein_g": 28.9,
+          "carbs_g": 7.0,
+          "items": [
+            "balık",
+            "kabak",
+            "salata"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 9",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 511.2,
+          "fat_g": 38.6,
+          "protein_g": 17.7,
+          "carbs_g": 6.7,
+          "items": [
+            "keto smoothie (hindistan cevizi sütü, avokado, chia)"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 258.0,
+          "fat_g": 21.0,
+          "protein_g": 12.1,
+          "carbs_g": 3.7,
+          "items": [
+            "zeytin",
+            "haşlanmış yumurta"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 598.1,
+          "fat_g": 43.4,
+          "protein_g": 36.0,
+          "carbs_g": 6.1,
+          "items": [
+            "kırmızı et",
+            "zeytinyağlı brokoli",
+            "salata"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 270.1,
+          "fat_g": 23.1,
+          "protein_g": 11.4,
+          "carbs_g": 2.9,
+          "items": [
+            "zeytin",
+            "fıstık ezmesi"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 518.1,
+          "fat_g": 38.6,
+          "protein_g": 29.1,
+          "carbs_g": 4.7,
+          "items": [
+            "ızgara kırmızı et",
+            "brokoli",
+            "zeytinyağı"
+          ]
+        }
+      ]
+    }
+  ]
+}

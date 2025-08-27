@@ -1,0 +1,466 @@
+{
+  "name": "Akdeniz",
+  "description": "Zeytinyağı, sebze, meyve, tam tahıllar, baklagiller ve balık ağırlıklıdır. Kalp sağlığını destekler, dengeli beslenme sağlar. Doğal ve işlenmemiş gıdaları temel alarak uzun vadede sağlıklı bir yaşam biçimi sunar.",
+  "diet": [
+    {
+      "day": "Gün 1",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 521.1,
+          "fat_g": 17.4,
+          "protein_g": 21.7,
+          "carbs_g": 37.3,
+          "items": [
+            "domatesli omlet",
+            "kepekli ekmek",
+            "salatalık"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 220.2,
+          "fat_g": 8.2,
+          "protein_g": 7.6,
+          "carbs_g": 18.0,
+          "items": [
+            "kefir",
+            "ceviz",
+            "kuru kayısı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 526.6,
+          "fat_g": 15.1,
+          "protein_g": 32.1,
+          "carbs_g": 34.1,
+          "items": [
+            "zeytinyağlı sebzeli tavuk",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 264.4,
+          "fat_g": 11.5,
+          "protein_g": 8.5,
+          "carbs_g": 28.4,
+          "items": [
+            "elma",
+            "1 yemek kaşığı fıstık ezmesi",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 517.8,
+          "fat_g": 17.5,
+          "protein_g": 26.3,
+          "carbs_g": 35.9,
+          "items": [
+            "ızgara balık",
+            "yeşil salata",
+            "zeytinyağı",
+            "tam buğday ekmeği"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 2",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 525.9,
+          "fat_g": 22.9,
+          "protein_g": 17.1,
+          "carbs_g": 40.5,
+          "items": [
+            "lor peynirli biber",
+            "tam buğday galeta",
+            "yeşil çay"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 184.2,
+          "fat_g": 5.4,
+          "protein_g": 3.1,
+          "carbs_g": 20.0,
+          "items": [
+            "10 çiğ badem",
+            "1 küçük muz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 513.3,
+          "fat_g": 20.8,
+          "protein_g": 29.0,
+          "carbs_g": 31.4,
+          "items": [
+            "tavuk şiş",
+            "kepekli makarna",
+            "yoğurt"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 286.0,
+          "fat_g": 10.1,
+          "protein_g": 7.4,
+          "carbs_g": 27.7,
+          "items": [
+            "muz",
+            "kefir"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 533.5,
+          "fat_g": 19.4,
+          "protein_g": 24.1,
+          "carbs_g": 32.7,
+          "items": [
+            "ızgara balık",
+            "yeşil salata",
+            "zeytinyağı",
+            "tam buğday ekmeği"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 3",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 520.5,
+          "fat_g": 19.5,
+          "protein_g": 22.7,
+          "carbs_g": 37.9,
+          "items": [
+            "yulaf lapası",
+            "muz",
+            "ceviz",
+            "bitkisel süt"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 207.8,
+          "fat_g": 10.5,
+          "protein_g": 8.3,
+          "carbs_g": 20.2,
+          "items": [
+            "10 çiğ badem",
+            "1 küçük muz",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 529.2,
+          "fat_g": 20.4,
+          "protein_g": 32.5,
+          "carbs_g": 34.0,
+          "items": [
+            "zeytinyağlı sebzeli tavuk",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 272.2,
+          "fat_g": 10.0,
+          "protein_g": 9.6,
+          "carbs_g": 32.7,
+          "items": [
+            "elma",
+            "1 yemek kaşığı fıstık ezmesi",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 484.8,
+          "fat_g": 22.5,
+          "protein_g": 23.1,
+          "carbs_g": 35.6,
+          "items": [
+            "sebzeli tavuk güveç",
+            "bulgur pilavı"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 4",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 483.2,
+          "fat_g": 17.4,
+          "protein_g": 19.6,
+          "carbs_g": 39.7,
+          "items": [
+            "2 dilim tam buğday ekmeği",
+            "1 haşlanmış yumurta",
+            "domates",
+            "zeytin",
+            "beyaz peynir"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 218.1,
+          "fat_g": 9.0,
+          "protein_g": 3.0,
+          "carbs_g": 17.9,
+          "items": [
+            "fındık",
+            "yoğurt",
+            "tarçın"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 498.5,
+          "fat_g": 16.6,
+          "protein_g": 29.9,
+          "carbs_g": 30.1,
+          "items": [
+            "ızgara köfte",
+            "esmer pirinç",
+            "salata"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 294.6,
+          "fat_g": 9.3,
+          "protein_g": 7.5,
+          "carbs_g": 31.6,
+          "items": [
+            "elma",
+            "1 yemek kaşığı fıstık ezmesi",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 468.1,
+          "fat_g": 18.7,
+          "protein_g": 25.8,
+          "carbs_g": 35.8,
+          "items": [
+            "et sote",
+            "ıspanak",
+            "yoğurt"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 5",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 510.6,
+          "fat_g": 19.2,
+          "protein_g": 18.1,
+          "carbs_g": 37.5,
+          "items": [
+            "domatesli omlet",
+            "kepekli ekmek",
+            "salatalık"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 177.5,
+          "fat_g": 9.8,
+          "protein_g": 3.5,
+          "carbs_g": 22.5,
+          "items": [
+            "kefir",
+            "ceviz",
+            "kuru kayısı"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 533.3,
+          "fat_g": 20.3,
+          "protein_g": 32.9,
+          "carbs_g": 29.4,
+          "items": [
+            "balık",
+            "kinoa",
+            "zeytinyağlı sebze"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 262.0,
+          "fat_g": 14.8,
+          "protein_g": 7.1,
+          "carbs_g": 28.0,
+          "items": [
+            "elma",
+            "1 yemek kaşığı fıstık ezmesi",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 494.5,
+          "fat_g": 20.7,
+          "protein_g": 26.1,
+          "carbs_g": 34.7,
+          "items": [
+            "ızgara balık",
+            "yeşil salata",
+            "zeytinyağı",
+            "tam buğday ekmeği"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 6",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 503.2,
+          "fat_g": 17.9,
+          "protein_g": 17.6,
+          "carbs_g": 38.3,
+          "items": [
+            "lor peynirli biber",
+            "tam buğday galeta",
+            "yeşil çay"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 169.3,
+          "fat_g": 5.5,
+          "protein_g": 3.2,
+          "carbs_g": 20.8,
+          "items": [
+            "fındık",
+            "yoğurt",
+            "tarçın"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 475.4,
+          "fat_g": 19.2,
+          "protein_g": 28.3,
+          "carbs_g": 29.4,
+          "items": [
+            "balık",
+            "kinoa",
+            "zeytinyağlı sebze"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 264.0,
+          "fat_g": 11.8,
+          "protein_g": 10.5,
+          "carbs_g": 31.3,
+          "items": [
+            "elma",
+            "1 yemek kaşığı fıstık ezmesi",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 521.9,
+          "fat_g": 19.0,
+          "protein_g": 26.9,
+          "carbs_g": 32.0,
+          "items": [
+            "fırın levrek",
+            "brokoli",
+            "havuç"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 7",
+      "meals": [
+        {
+          "type": "Kahvaltı",
+          "calories": 469.7,
+          "fat_g": 22.6,
+          "protein_g": 19.5,
+          "carbs_g": 38.0,
+          "items": [
+            "2 dilim tam buğday ekmeği",
+            "1 haşlanmış yumurta",
+            "domates",
+            "zeytin",
+            "beyaz peynir"
+          ]
+        },
+        {
+          "type": "Ara Öğün 1",
+          "calories": 169.5,
+          "fat_g": 6.5,
+          "protein_g": 7.0,
+          "carbs_g": 23.0,
+          "items": [
+            "fındık",
+            "yoğurt",
+            "tarçın"
+          ]
+        },
+        {
+          "type": "Öğle",
+          "calories": 522.9,
+          "fat_g": 17.3,
+          "protein_g": 30.2,
+          "carbs_g": 32.5,
+          "items": [
+            "zeytinyağlı sebzeli tavuk",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        },
+        {
+          "type": "Ara Öğün 2",
+          "calories": 337.7,
+          "fat_g": 11.3,
+          "protein_g": 11.5,
+          "carbs_g": 28.7,
+          "items": [
+            "muz",
+            "kefir"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 496.7,
+          "fat_g": 19.2,
+          "protein_g": 26.0,
+          "carbs_g": 33.5,
+          "items": [
+            "et sote",
+            "ıspanak",
+            "yoğurt"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- HealthKit İzinleri -->
+	<key>NSHealthShareUsageDescription</key>
+	<string>Bu uygulama Apple Watch'tan adım sayısı ve yakılan kalori verilerini okumak için HealthKit erişimi istiyor. Bu veriler fitness hedeflerinizi takip etmenize yardımcı olur.</string>
+	
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Bu uygulama sağlık verilerinizi güncellemek için HealthKit erişimi istiyor. Bu özellik gelecekte fitness verilerinizi kaydetmek için kullanılabilir.</string>
+	
+	<!-- HealthKit Capability -->
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+		<string>healthkit</string>
+	</array>
+	
+	<!-- Background Modes (HealthKit için) -->
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>background-processing</string>
+		<string>background-fetch</string>
+	</array>
+	
+	<!-- App Transport Security Settings -->
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>trackapi.nutritionix.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<false/>
+				<key>NSExceptionMinimumTLSVersion</key>
+				<string>TLSv1.2</string>
+				<key>NSExceptionRequiresForwardSecrecy</key>
+				<true/>
+			</dict>
+			<key>api.openai.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<false/>
+				<key>NSExceptionMinimumTLSVersion</key>
+				<string>TLSv1.2</string>
+				<key>NSExceptionRequiresForwardSecrecy</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
+ 

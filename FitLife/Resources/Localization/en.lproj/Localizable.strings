@@ -1,0 +1,239 @@
+/* 
+  Localizable.strings (English)
+  FitLife
+*/
+
+// MARK: - General
+"app_name" = "FitLife";
+"welcome" = "Welcome";
+"continue" = "Continue";
+"next" = "Next";
+"back" = "Back";
+"done" = "Done";
+"cancel" = "Cancel";
+"save" = "Save";
+"delete" = "Delete";
+"edit" = "Edit";
+"close" = "Close";
+"yes" = "Yes";
+"no" = "No";
+"ok" = "OK";
+"error" = "Error";
+"success" = "Success";
+"loading" = "Loading...";
+
+// MARK: - Tab Bar
+"home" = "Home";
+"diet" = "Diet";
+"exercise" = "Exercise";
+"ai_assistant" = "AI Assistant";
+"settings" = "Settings";
+
+// MARK: - Authentication
+"login" = "Login";
+"register" = "Register";
+"email" = "Email";
+"password" = "Password";
+"confirm_password" = "Confirm Password";
+"forgot_password" = "Forgot Password";
+"create_account" = "Create Account";
+"already_have_account" = "Already have an account?";
+"dont_have_account" = "Don't have an account?";
+"logout" = "Logout";
+"logout_confirmation" = "Are you sure you want to logout?";
+
+// MARK: - Registration Process
+"lets_get_started" = "Let's Get Started";
+"personal_info" = "Personal Information";
+"full_name" = "Full Name";
+"date_of_birth" = "Date of Birth";
+"gender" = "Gender";
+"male" = "Male";
+"female" = "Female";
+"height_weight" = "Height and Weight";
+"height" = "Height";
+"weight" = "Weight";
+"cm" = "cm";
+"kg" = "kg";
+"activity_level" = "Activity Level";
+"sedentary" = "Sedentary";
+"lightly_active" = "Lightly Active";
+"moderately_active" = "Moderately Active";
+"very_active" = "Very Active";
+"extremely_active" = "Extremely Active";
+"goal" = "Goal";
+"lose_weight" = "Lose Weight";
+"maintain_weight" = "Maintain Weight";
+"gain_weight" = "Gain Weight";
+"build_muscle" = "Build Muscle";
+
+// MARK: - Home
+"daily_calories" = "Daily Calories";
+"consumed" = "Consumed";
+"remaining" = "Remaining";
+"todays_meals" = "Today's Meals";
+"breakfast" = "Breakfast";
+"lunch" = "Lunch";
+"dinner" = "Dinner";
+"snacks" = "Snacks";
+"add_meal" = "Add Meal";
+"no_meals_today" = "No meals added today";
+"add_first_meal" = "Add your first meal";
+
+// MARK: - Diet
+"my_diets" = "My Diets";
+"available_diets" = "Available Diets";
+"select_diet" = "Select Diet";
+"diet_details" = "Diet Details";
+"day" = "Day";
+"calories" = "Calories";
+"protein" = "Protein";
+"carbs" = "Carbohydrates";
+"fat" = "Fat";
+"fiber" = "Fiber";
+"sugar" = "Sugar";
+"sodium" = "Sodium";
+
+// MARK: - Exercise
+"exercises" = "Exercises";
+"workout_programs" = "Workout Programs";
+"exercise_details" = "Exercise Details";
+"duration" = "Duration";
+"difficulty" = "Difficulty";
+"beginner" = "Beginner";
+"intermediate" = "Intermediate";
+"advanced" = "Advanced";
+"calories_burned" = "Calories Burned";
+"start_workout" = "Start Workout";
+
+// MARK: - AI Assistant
+"ai_suggestions" = "AI Suggestions";
+"recommended_exercises" = "Recommended Exercises";
+"recommended_diets" = "Recommended Diets";
+"chat_with_ai" = "Chat with AI";
+"ask_anything" = "Ask anything...";
+"send" = "Send";
+
+// MARK: - Settings
+"account" = "Account";
+"profile_info" = "Profile Information";
+"change_password" = "Change Password";
+"notifications" = "Notifications";
+"region" = "Region";
+"application" = "Application";
+"theme" = "Theme";
+"dark" = "Dark";
+"language" = "Language";
+"turkish" = "Turkish";
+"english" = "English";
+"data_sharing_sync" = "Data Sharing and Synchronization";
+"other" = "Other";
+"about" = "About";
+
+// MARK: - Profile Edit
+"edit_profile" = "Edit Profile";
+"current_password" = "Current Password";
+"new_password" = "New Password";
+"confirm_new_password" = "Confirm New Password";
+"update_profile" = "Update Profile";
+"profile_updated" = "Profile updated successfully";
+"error_occurred" = "An error occurred";
+
+// MARK: - Data Sharing
+"cloud_sync" = "Cloud Synchronization";
+"sync_status" = "Sync Status";
+"last_sync" = "Last Sync";
+"never_synced" = "Never synced";
+"manual_sync" = "Manual Synchronization";
+"sync_now" = "Sync Now";
+"upload_only" = "Upload Only";
+"download_only" = "Download Only";
+"health_app_sync" = "Health App Synchronization";
+"apple_watch_sync" = "Apple Watch Synchronization";
+
+// MARK: - Apple Watch
+"watch_connected" = "Apple Watch Connected";
+"watch_not_connected" = "Apple Watch Not Connected";
+"watch_not_supported" = "Apple Watch Not Supported";
+"watch_app_not_installed" = "Watch App Not Installed";
+"watch_battery" = "Battery";
+"watch_charging" = "Charging";
+"send_test_data" = "Send Test Data";
+"install_watch_app" = "Install Watch App";
+
+// MARK: - About
+"about_title" = "About";
+"about_app" = "Your personal fitness assistant for healthy living";
+"developer_info" = "Developer Information";
+"developer_description" = "FitLife application was developed by Mehmet Atakan İçel, a senior Computer Engineering student at Süleyman Demirel University, as a graduation project.";
+"important_notice" = "Important Notice";
+"ai_disclaimer" = "The diets and exercises in the application are prepared by artificial intelligence and have not been reviewed by a real dietitian. Therefore, they cannot be considered accurate.";
+"technologies" = "Technologies Used";
+"swift_swiftui" = "Swift & SwiftUI";
+"firebase_auth" = "Firebase authentication";
+"coredata_firestore" = "CoreData & Firestore database";
+"healthkit_integration" = "HealthKit integration";
+"ai_recommendations" = "AI-Powered Recommendations (ChatGPT 4.0)";
+"copyright" = "© 2024 FitLife. All rights reserved.";
+
+// MARK: - Food Search
+"search_food" = "Search Food";
+"search_placeholder" = "Enter food name...";
+"no_results" = "No results found";
+"add_to_meal" = "Add to Meal";
+"serving_size" = "Serving Size";
+
+// MARK: - Error Messages
+"network_error" = "Network connection error";
+"invalid_email" = "Invalid email address";
+"password_too_short" = "Password is too short";
+"passwords_dont_match" = "Passwords don't match";
+"required_field" = "This field is required";
+"sync_error" = "Synchronization error";
+"login_error" = "Login error";
+"registration_error" = "Registration error";
+
+// MARK: - Success Messages
+"login_success" = "Login successful";
+"registration_success" = "Registration completed successfully";
+"sync_success" = "Synchronization successful";
+"meal_added" = "Meal added";
+"profile_saved" = "Profile saved";
+
+// MARK: - Regions
+"turkey" = "Turkey";
+"united_states" = "United States";
+"germany" = "Germany";
+"france" = "France";
+"united_kingdom" = "United Kingdom";
+"italy" = "Italy";
+"spain" = "Spain";
+"japan" = "Japan";
+"china" = "China";
+"india" = "India";
+"brazil" = "Brazil";
+"canada" = "Canada";
+"australia" = "Australia";
+"russia" = "Russia";
+"south_korea" = "South Korea";
+"netherlands" = "Netherlands";
+"sweden" = "Sweden";
+"norway" = "Norway";
+"denmark" = "Denmark";
+"belgium" = "Belgium";
+"switzerland" = "Switzerland";
+"austria" = "Austria";
+"poland" = "Poland";
+"czech_republic" = "Czech Republic";
+"greece" = "Greece";
+
+// MARK: - Diet Names
+"mediterranean_diet" = "Mediterranean Diet";
+"keto_diet" = "Keto Diet";
+"high_protein_diet" = "High Protein Diet";
+"vegan_diet" = "Vegan Diet";
+"paleo_diet" = "Paleo Diet";
+"intermittent_fasting" = "Intermittent Fasting";
+
+// MARK: - Technology Names
+"chatbot" = "ChatBot (ChatGPT 4.0)"; 

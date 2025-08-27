@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Tüm Vücut Egzersizi",
+        "description": "Genel kondisyonu artıran ve tüm vücut kaslarını çalıştıran ev egzersizi.",
+        "estimated_calories": 120,
+        "exercises": [
+            {
+                "name": "Jumping Jacks",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Burpees",
+                "reps": "10 tekrar",
+                "duration_sec": 20
+            },
+            {
+                "name": "Mountain Climbers",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Plank",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Step Touch",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Butt Kicks",
+                "reps": "30 sn",
+                "duration_sec": 30
+            }
+        ]
+    },
+    {
+        "title": "Üst Vücut Egzersizi",
+        "description": "Omuz, sırt ve göğüs kaslarını çalıştıran evde yapılabilir egzersizler.",
+        "estimated_calories": 100,
+        "exercises": [
+            {
+                "name": "Şınav",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Plank Shoulder Taps",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Superman",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Wall Push-up",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Arm Raises",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Reverse Snow Angels",
+                "reps": "15 tekrar",
+                "duration_sec": 45
+            }
+        ]
+    },
+    {
+        "title": "HIIT Kardiyo",
+        "description": "Yüksek tempolu, kısa sürede kalori yaktıran kardiyo antrenmanı.",
+        "estimated_calories": 150,
+        "exercises": [
+            {
+                "name": "High Knees",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Jump Squats",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Skater Jumps",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Burpees",
+                "reps": "10 tekrar",
+                "duration_sec": 20
+            },
+            {
+                "name": "Jump Lunges",
+                "reps": "12 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Plank Jacks",
+                "reps": "30 sn",
+                "duration_sec": 30
+            }
+        ]
+    },
+    {
+        "title": "Kol Egzersizleri",
+        "description": "Biceps ve triceps kaslarını hedefleyen temel kol egzersizleri.",
+        "estimated_calories": 90,
+        "exercises": [
+            {
+                "name": "Triceps Dips",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Incline Push-up",
+                "reps": "12 tekrar",
+                "duration_sec": 24
+            },
+            {
+                "name": "Arm Circles",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Biceps Curl (su şişesiyle)",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Wall Push",
+                "reps": "15 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Overhead Arm Claps",
+                "reps": "30 sn",
+                "duration_sec": 30
+            }
+        ]
+    },
+    {
+        "title": "Bacak Egzersizleri",
+        "description": "Alt vücut kaslarını çalıştıran basit ama etkili egzersizler.",
+        "estimated_calories": 110,
+        "exercises": [
+            {
+                "name": "Squat",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Lunge",
+                "reps": "10 tekrar (her bacak)",
+                "duration_sec": 20
+            },
+            {
+                "name": "Glute Bridge",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Calf Raises",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Wall Sit",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Side Leg Raises",
+                "reps": "15 tekrar (her bacak)",
+                "duration_sec": 40
+            }
+        ]
+    },
+    {
+        "title": "Karın ve Core Egzersizleri",
+        "description": "Karın ve merkez bölgeyi çalıştıran sıkılaştırıcı hareketler.",
+        "estimated_calories": 100,
+        "exercises": [
+            {
+                "name": "Crunch",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Plank",
+                "reps": "30 sn",
+                "duration_sec": 30
+            },
+            {
+                "name": "Russian Twist",
+                "reps": "20 tekrar",
+                "duration_sec": 40
+            },
+            {
+                "name": "Leg Raises",
+                "reps": "15 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Heel Touch",
+                "reps": "20 tekrar",
+                "duration_sec": 30
+            },
+            {
+                "name": "Flutter Kicks",
+                "reps": "30 sn",
+                "duration_sec": 30
+            }
+        ]
+    }
+]

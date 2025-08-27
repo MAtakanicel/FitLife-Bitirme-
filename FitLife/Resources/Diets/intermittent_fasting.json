@@ -1,0 +1,295 @@
+{
+  "name": "Aralıklı Oruç",
+  "description": "Belirli zaman aralıklarında yemek yemeyi, kalan sürede ise kalori alımını durdurmayı temel alır. Genellikle 16 saat açlık, 8 saat beslenme düzeni uygulanır. Metabolizmayı destekler, yağ yakımını artırır ve sindirime dinlenme fırsatı verir.",
+  "diet": [
+    {
+      "day": "Gün 1",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 758.5,
+          "fat_g": 48.3,
+          "protein_g": 31.0,
+          "carbs_g": 19.9,
+          "items": [
+            "somon",
+            "ızgara sebze",
+            "roka salatası"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 306.2,
+          "fat_g": 19.1,
+          "protein_g": 11.8,
+          "carbs_g": 9.4,
+          "items": [
+            "muz",
+            "fıstık ezmesi",
+            "badem sütü"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 911.8,
+          "fat_g": 57.5,
+          "protein_g": 39.0,
+          "carbs_g": 25.8,
+          "items": [
+            "balık",
+            "ıspanak",
+            "tatlı patates"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 2",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 750.2,
+          "fat_g": 49.4,
+          "protein_g": 30.0,
+          "carbs_g": 16.3,
+          "items": [
+            "sebzeli hindi kavurma",
+            "yeşil salata",
+            "kefir"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 273.5,
+          "fat_g": 18.0,
+          "protein_g": 11.8,
+          "carbs_g": 12.9,
+          "items": [
+            "muz",
+            "fıstık ezmesi",
+            "badem sütü"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 928.6,
+          "fat_g": 56.5,
+          "protein_g": 37.4,
+          "carbs_g": 24.5,
+          "items": [
+            "balık",
+            "ıspanak",
+            "tatlı patates"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 3",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 787.0,
+          "fat_g": 47.2,
+          "protein_g": 30.9,
+          "carbs_g": 18.4,
+          "items": [
+            "somon",
+            "ızgara sebze",
+            "roka salatası"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 332.3,
+          "fat_g": 18.2,
+          "protein_g": 10.6,
+          "carbs_g": 7.5,
+          "items": [
+            "yoğurt",
+            "kuru kayısı",
+            "ceviz"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 975.1,
+          "fat_g": 56.3,
+          "protein_g": 37.4,
+          "carbs_g": 26.9,
+          "items": [
+            "sebzeli kırmızı et",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 4",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 748.8,
+          "fat_g": 50.3,
+          "protein_g": 32.3,
+          "carbs_g": 20.5,
+          "items": [
+            "somon",
+            "ızgara sebze",
+            "roka salatası"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 277.4,
+          "fat_g": 21.1,
+          "protein_g": 9.2,
+          "carbs_g": 11.3,
+          "items": [
+            "1 avuç çiğ fındık",
+            "haşlanmış yumurta",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 926.7,
+          "fat_g": 55.5,
+          "protein_g": 41.3,
+          "carbs_g": 25.7,
+          "items": [
+            "ızgara tavuk",
+            "brokoli",
+            "esmer pirinç",
+            "zeytinyağı"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 5",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 749.5,
+          "fat_g": 49.6,
+          "protein_g": 27.1,
+          "carbs_g": 17.6,
+          "items": [
+            "sebzeli hindi kavurma",
+            "yeşil salata",
+            "kefir"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 301.9,
+          "fat_g": 21.0,
+          "protein_g": 12.1,
+          "carbs_g": 12.8,
+          "items": [
+            "1 avuç çiğ fındık",
+            "haşlanmış yumurta",
+            "bitki çayı"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 918.0,
+          "fat_g": 57.0,
+          "protein_g": 37.1,
+          "carbs_g": 23.4,
+          "items": [
+            "sebzeli kırmızı et",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 6",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 768.5,
+          "fat_g": 48.4,
+          "protein_g": 29.7,
+          "carbs_g": 15.1,
+          "items": [
+            "3 yumurtalı omlet",
+            "avokado",
+            "zeytinyağlı salata",
+            "tam tahıllı ekmek"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 297.8,
+          "fat_g": 19.7,
+          "protein_g": 7.7,
+          "carbs_g": 9.7,
+          "items": [
+            "şekersiz smoothie",
+            "protein bar"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 955.9,
+          "fat_g": 56.3,
+          "protein_g": 39.9,
+          "carbs_g": 24.9,
+          "items": [
+            "sebzeli kırmızı et",
+            "bulgur pilavı",
+            "yoğurt"
+          ]
+        }
+      ]
+    },
+    {
+      "day": "Gün 7",
+      "meals": [
+        {
+          "type": "Öğle",
+          "calories": 790.0,
+          "fat_g": 47.2,
+          "protein_g": 32.0,
+          "carbs_g": 20.5,
+          "items": [
+            "sebzeli hindi kavurma",
+            "yeşil salata",
+            "kefir"
+          ]
+        },
+        {
+          "type": "Atıştırmalık",
+          "calories": 323.3,
+          "fat_g": 17.8,
+          "protein_g": 7.9,
+          "carbs_g": 9.1,
+          "items": [
+            "yoğurt",
+            "kuru kayısı",
+            "ceviz"
+          ]
+        },
+        {
+          "type": "Akşam",
+          "calories": 976.0,
+          "fat_g": 54.1,
+          "protein_g": 42.8,
+          "carbs_g": 23.4,
+          "items": [
+            "ızgara tavuk",
+            "brokoli",
+            "esmer pirinç",
+            "zeytinyağı"
+          ]
+        }
+      ]
+    }
+  ]
+}

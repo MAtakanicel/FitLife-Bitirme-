@@ -1,0 +1,239 @@
+/* 
+  Localizable.strings (Turkish)
+  FitLife
+*/
+
+// MARK: - Genel
+"app_name" = "FitLife";
+"welcome" = "Hoş Geldiniz";
+"continue" = "Devam Et";
+"next" = "İleri";
+"back" = "Geri";
+"done" = "Tamam";
+"cancel" = "İptal";
+"save" = "Kaydet";
+"delete" = "Sil";
+"edit" = "Düzenle";
+"close" = "Kapat";
+"yes" = "Evet";
+"no" = "Hayır";
+"ok" = "Tamam";
+"error" = "Hata";
+"success" = "Başarılı";
+"loading" = "Yükleniyor...";
+
+// MARK: - Tab Bar
+"home" = "Ana Sayfa";
+"diet" = "Diyet";
+"exercise" = "Egzersiz";
+"ai_assistant" = "AI Asistan";
+"settings" = "Ayarlar";
+
+// MARK: - Kimlik Doğrulama
+"login" = "Giriş Yap";
+"register" = "Kayıt Ol";
+"email" = "E-posta";
+"password" = "Şifre";
+"confirm_password" = "Şifre Tekrar";
+"forgot_password" = "Şifremi Unuttum";
+"create_account" = "Hesap Oluştur";
+"already_have_account" = "Zaten hesabınız var mı?";
+"dont_have_account" = "Hesabınız yok mu?";
+"logout" = "Çıkış Yap";
+"logout_confirmation" = "Hesabınızdan çıkış yapmak istediğinize emin misiniz?";
+
+// MARK: - Kayıt Süreci
+"lets_get_started" = "Başlayalım";
+"personal_info" = "Kişisel Bilgiler";
+"full_name" = "Ad Soyad";
+"date_of_birth" = "Doğum Tarihi";
+"gender" = "Cinsiyet";
+"male" = "Erkek";
+"female" = "Kadın";
+"height_weight" = "Boy ve Kilo";
+"height" = "Boy";
+"weight" = "Kilo";
+"cm" = "cm";
+"kg" = "kg";
+"activity_level" = "Aktivite Seviyesi";
+"sedentary" = "Hareketsiz";
+"lightly_active" = "Az Aktif";
+"moderately_active" = "Orta Aktif";
+"very_active" = "Çok Aktif";
+"extremely_active" = "Aşırı Aktif";
+"goal" = "Hedef";
+"lose_weight" = "Kilo Vermek";
+"maintain_weight" = "Kiloyu Korumak";
+"gain_weight" = "Kilo Almak";
+"build_muscle" = "Kas Yapmak";
+
+// MARK: - Ana Sayfa
+"daily_calories" = "Günlük Kalori";
+"consumed" = "Tüketilen";
+"remaining" = "Kalan";
+"todays_meals" = "Bugünün Öğünleri";
+"breakfast" = "Kahvaltı";
+"lunch" = "Öğle Yemeği";
+"dinner" = "Akşam Yemeği";
+"snacks" = "Ara Öğün";
+"add_meal" = "Öğün Ekle";
+"no_meals_today" = "Bugün henüz öğün eklenmemiş";
+"add_first_meal" = "İlk öğününüzü ekleyin";
+
+// MARK: - Diyet
+"my_diets" = "Diyetlerim";
+"available_diets" = "Mevcut Diyetler";
+"select_diet" = "Diyet Seç";
+"diet_details" = "Diyet Detayları";
+"day" = "Gün";
+"calories" = "Kalori";
+"protein" = "Protein";
+"carbs" = "Karbonhidrat";
+"fat" = "Yağ";
+"fiber" = "Lif";
+"sugar" = "Şeker";
+"sodium" = "Sodyum";
+
+// MARK: - Egzersiz
+"exercises" = "Egzersizler";
+"workout_programs" = "Antrenman Programları";
+"exercise_details" = "Egzersiz Detayları";
+"duration" = "Süre";
+"difficulty" = "Zorluk";
+"beginner" = "Başlangıç";
+"intermediate" = "Orta";
+"advanced" = "İleri";
+"calories_burned" = "Yakılan Kalori";
+"start_workout" = "Antrenmana Başla";
+
+// MARK: - AI Asistan
+"ai_suggestions" = "AI Önerileri";
+"recommended_exercises" = "Önerilen Egzersizler";
+"recommended_diets" = "Önerilen Diyetler";
+"chat_with_ai" = "AI ile Sohbet";
+"ask_anything" = "Herhangi bir şey sorun...";
+"send" = "Gönder";
+
+// MARK: - Ayarlar
+"account" = "Hesap";
+"profile_info" = "Profil Bilgileri";
+"change_password" = "Şifre Değiştir";
+"notifications" = "Bildirimler";
+"region" = "Bölge";
+"application" = "Uygulama";
+"theme" = "Tema";
+"dark" = "Karanlık";
+"language" = "Dil";
+"turkish" = "Türkçe";
+"english" = "İngilizce";
+"data_sharing_sync" = "Veri Paylaşımı ve Senkronizasyonu";
+"other" = "Diğer";
+"about" = "Hakkında";
+
+// MARK: - Profil Düzenleme
+"edit_profile" = "Profil Düzenle";
+"current_password" = "Mevcut Şifre";
+"new_password" = "Yeni Şifre";
+"confirm_new_password" = "Yeni Şifre Tekrar";
+"update_profile" = "Profili Güncelle";
+"profile_updated" = "Profil başarıyla güncellendi";
+"error_occurred" = "Hata oluştu";
+
+// MARK: - Veri Paylaşımı
+"cloud_sync" = "Bulut Senkronizasyonu";
+"sync_status" = "Senkronizasyon Durumu";
+"last_sync" = "Son Senkronizasyon";
+"never_synced" = "Hiç senkronize edilmedi";
+"manual_sync" = "Manuel Senkronizasyon";
+"sync_now" = "Şimdi Senkronize Et";
+"upload_only" = "Sadece Yükle";
+"download_only" = "Sadece İndir";
+"health_app_sync" = "Sağlık Uygulaması Senkronizasyonu";
+"apple_watch_sync" = "Apple Watch Senkronizasyonu";
+
+// MARK: - Apple Watch
+"watch_connected" = "Apple Watch Bağlı";
+"watch_not_connected" = "Apple Watch Bağlı Değil";
+"watch_not_supported" = "Apple Watch Desteklenmiyor";
+"watch_app_not_installed" = "Watch Uygulaması Yüklü Değil";
+"watch_battery" = "Batarya";
+"watch_charging" = "Şarj Oluyor";
+"send_test_data" = "Test Verisi Gönder";
+"install_watch_app" = "Watch Uygulamasını İndir";
+
+// MARK: - Hakkında
+"about_title" = "Hakkında";
+"about_app" = "Sağlıklı yaşam için kişisel fitness asistanınız";
+"developer_info" = "Geliştirici Bilgileri";
+"developer_description" = "FitLife uygulaması Süleyman Demirel Üniversitesi bilgisayar mühendisliği son sınıf öğrencisi Mehmet Atakan İçel tarafından bitirme ödevi olarak hazırlanmıştır.";
+"important_notice" = "Önemli Uyarı";
+"ai_disclaimer" = "Uygulamada bulunan diyet ve egzersizler yapay zeka tarafından hazırlanmış ve gerçek bir diyetisyen kontrolünden geçmemiştir. Bu nedenle doğru olarak kabul edilemez.";
+"technologies" = "Kullanılan Teknolojiler";
+"swift_swiftui" = "Swift & SwiftUI";
+"firebase_auth" = "Firebase authentication";
+"coredata_firestore" = "CoreData & Firestore veritabanı";
+"healthkit_integration" = "HealthKit entegrasyonu";
+"ai_recommendations" = "AI Destekli Öneriler (ChatGPT 4.0)";
+"copyright" = "© 2024 FitLife. Tüm hakları saklıdır.";
+
+// MARK: - Yemek Arama
+"search_food" = "Yemek Ara";
+"search_placeholder" = "Yemek adı yazın...";
+"no_results" = "Sonuç bulunamadı";
+"add_to_meal" = "Öğüne Ekle";
+"serving_size" = "Porsiyon Boyutu";
+
+// MARK: - Hata Mesajları
+"network_error" = "İnternet bağlantısı hatası";
+"invalid_email" = "Geçersiz e-posta adresi";
+"password_too_short" = "Şifre çok kısa";
+"passwords_dont_match" = "Şifreler eşleşmiyor";
+"required_field" = "Bu alan zorunludur";
+"sync_error" = "Senkronizasyon hatası";
+"login_error" = "Giriş hatası";
+"registration_error" = "Kayıt hatası";
+
+// MARK: - Başarı Mesajları
+"login_success" = "Başarıyla giriş yapıldı";
+"registration_success" = "Kayıt başarıyla tamamlandı";
+"sync_success" = "Senkronizasyon başarılı";
+"meal_added" = "Öğün eklendi";
+"profile_saved" = "Profil kaydedildi";
+
+// MARK: - Bölgeler
+"turkey" = "Türkiye";
+"united_states" = "Amerika Birleşik Devletleri";
+"germany" = "Almanya";
+"france" = "Fransa";
+"united_kingdom" = "İngiltere";
+"italy" = "İtalya";
+"spain" = "İspanya";
+"japan" = "Japonya";
+"china" = "Çin";
+"india" = "Hindistan";
+"brazil" = "Brezilya";
+"canada" = "Kanada";
+"australia" = "Avustralya";
+"russia" = "Rusya";
+"south_korea" = "Güney Kore";
+"netherlands" = "Hollanda";
+"sweden" = "İsveç";
+"norway" = "Norveç";
+"denmark" = "Danimarka";
+"belgium" = "Belçika";
+"switzerland" = "İsviçre";
+"austria" = "Avusturya";
+"poland" = "Polonya";
+"czech_republic" = "Çek Cumhuriyeti";
+"greece" = "Yunanistan";
+
+// MARK: - Diyet İsimleri
+"mediterranean_diet" = "Akdeniz Diyeti";
+"keto_diet" = "Keto Diyeti";
+"high_protein_diet" = "Yüksek Protein Diyeti";
+"vegan_diet" = "Vegan Diyeti";
+"paleo_diet" = "Paleo Diyeti";
+"intermittent_fasting" = "Aralıklı Oruç";
+
+// MARK: - Teknoloji İsimleri
+"chatbot" = "ChatBot (ChatGPT 4.0)"; 
