@@ -5,8 +5,8 @@ class NutritionixService: ObservableObject {
     static let shared = NutritionixService()
     
     // MARK: - API Configuration Nutritionix
-    private let appId = ""
-    private let appKey = ""
+    private let appId = ProcessInfo.processInfo.environment["Nutritionix_App_ID"] ?? ""
+    private let appKey = ProcessInfo.processInfo.environment["Nutritionix_App_Key"] ?? ""
     private let baseURL = "https://trackapi.nutritionix.com/v2"
     
     // MARK: - Published Properties

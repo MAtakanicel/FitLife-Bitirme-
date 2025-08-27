@@ -50,6 +50,23 @@
             ReferencedContainer = "container:FitLife.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "OPENAI_API_KEY"
+            value = "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&#10;"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "Nutritionix_App_ID"
+            value = "C8133e4c"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "Nutritionix_App_Key"
+            value = "89d0ece65412ef9f48272aae111edf77"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
