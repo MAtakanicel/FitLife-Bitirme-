@@ -4,9 +4,9 @@ import Combine
 class NutritionixService: ObservableObject {
     static let shared = NutritionixService()
     
-    // MARK: - API Configuration
-    private let appId = "c8133e4c"
-    private let appKey = "89d0ece65412ef9f48272aae111edf77"
+    // MARK: - API Configuration Nutritionix
+    private let appId = ""
+    private let appKey = ""
     private let baseURL = "https://trackapi.nutritionix.com/v2"
     
     // MARK: - Published Properties
@@ -467,7 +467,7 @@ class NutritionixService: ObservableObject {
     
 
     
-    // Search for foods using instant endpoint
+   
     func searchFoods(query: String, completion: @escaping (Result<[Food], Error>) -> Void) {
         print("🥗 [NUTRITIONIX] Yiyecek araması başlatılıyor...")
         print("📝 [NUTRITIONIX] Arama terimi: '\(query)'")
@@ -509,7 +509,7 @@ class NutritionixService: ObservableObject {
         getNutritionInfo(query: query, completion: completion)
     }
     
-    // Get nutrition info with detailed macro information
+  
     private func getNutritionInfo(query: String, completion: @escaping (Result<[Food], Error>) -> Void) {
         print("📊 [NUTRITIONIX] Beslenme bilgisi alınıyor...")
         print("📝 [NUTRITIONIX] Query: '\(query)'")
@@ -563,7 +563,7 @@ class NutritionixService: ObservableObject {
                 
                 print("📦 [NUTRITIONIX] Data alındı: \(data.count) bytes")
                 
-                // Debug raw JSON
+            
                 if let jsonString = String(data: data, encoding: .utf8) {
                     print("📄 [NUTRITIONIX] Raw JSON (ilk 1000 karakter):")
                     print(String(jsonString.prefix(1000)))
@@ -673,7 +673,7 @@ class NutritionixService: ObservableObject {
                 
                 print("📦 [NUTRITIONIX] Data alındı: \(data.count) bytes")
                 
-                // Debug raw JSON
+             
                 if let jsonString = String(data: data, encoding: .utf8) {
                     print("📄 [NUTRITIONIX] Raw JSON (ilk 500 karakter):")
                     print(String(jsonString.prefix(500)))
@@ -684,14 +684,14 @@ class NutritionixService: ObservableObject {
                     
                     var allFoods: [Food] = []
                     
-                    // Add common foods
+                   
                     if let commonFoods = response.common {
                         let foods = commonFoods.map { $0.asFood }
                         allFoods.append(contentsOf: foods)
                         print("🥗 [NUTRITIONIX] \(foods.count) doğal yiyecek dönüştürüldü")
                     }
                     
-                    // Add branded foods
+                    
                     if let brandedFoods = response.branded {
                         let foods = brandedFoods.map { $0.asFood }
                         allFoods.append(contentsOf: foods)
@@ -713,7 +713,7 @@ class NutritionixService: ObservableObject {
         print("🚀 [NUTRITIONIX] URLSessionDataTask başlatıldı")
     }
     
-    // Get detailed nutrition for a food item using natural language
+   
     func getNutrition(query: String, completion: @escaping (Result<[Serving], Error>) -> Void) {
         print("📊 [NUTRITIONIX] Beslenme bilgisi alınıyor...")
         print("📝 [NUTRITIONIX] Query: '\(query)'")
@@ -770,12 +770,12 @@ class NutritionixService: ObservableObject {
         task.resume()
     }
     
-    // Get detailed nutrition info for a selected suggestion
+   
     func getNutritionDetails(for suggestion: NutritionixSuggestion, completion: @escaping (Result<Food, Error>) -> Void) {
         print("📊 [NUTRITIONIX] Detay beslenme bilgisi alınıyor...")
         print("📝 [NUTRITIONIX] Suggestion: '\(suggestion.foodName)'")
         
-        // Create query based on suggestion type
+       
         let query: String
         if suggestion.type == .branded {
             query = "1 serving \(suggestion.foodName)"
@@ -783,7 +783,7 @@ class NutritionixService: ObservableObject {
             query = "1 medium \(suggestion.foodName)"
         }
         
-        // Use the existing getNutritionInfo method but handle array result
+       
         getNutritionInfo(query: query) { result in
             switch result {
             case .success(let foods):
@@ -798,7 +798,7 @@ class NutritionixService: ObservableObject {
         }
     }
     
-    // Clear search results
+    
     func clearResults() {
         DispatchQueue.main.async {
             self.searchResults = []

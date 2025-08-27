@@ -52,7 +52,7 @@ struct ChatGPTUsage: Codable {
 
 // MARK: - ChatGPT Service
 struct ChatGPTService {
-    private let apiKey = "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"
+    private let apiKey = ""
     private let baseURL = "https://api.openai.com/v1/chat/completions"
     
     // Kullanıcının mevcut verilerini al
