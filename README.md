@@ -43,7 +43,7 @@ FitLife/
 - [UML Diagramı](docs/UMLDiagram.png)
 - [Use Case Senaryoları](docs/useCase.png)
 - [Firestore Modeli](docs/FirestoreModel.png)
-- [CoreData Diagramı](CoreDataDiagram.png)
+- [CoreData Diagramı](docs/CDDiagram.png)
 
 ## 📌 Not
 
