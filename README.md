@@ -38,6 +38,13 @@ FitLife/
 - MVVM mimarisi
 - Cursor (Debug)
 
+
+## Dökümanlar
+[UML Diagramı](docs/UMLDiagram.png)
+[Use Case Senaryoları](docs/useCase.png)
+[Firestore Modeli](docs/FirestoreModel.png)
+[CoreData Diagramı](CoreDataDiagram.png)
+
 ## 📌 Not
 
 Bu proje benim bitirme projemdir. Gerçek bir uygulama değildir.
